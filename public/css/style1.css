@@ -1,0 +1,147 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* General Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Header Styles */
+.header-area {
+    background: #343a40;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.header-logo-area img {
+    max-width: 150px;
+}
+
+.header-navigation-area ul {
+    list-style: none;
+    display: flex;
+}
+
+.header-navigation-area ul li {
+    margin-right: 20px;
+}
+
+.header-navigation-area ul li a {
+    color: #fff;
+    font-weight: 500;
+}
+
+/* Hero Section Styles */
+.home-slider-area {
+    position: relative;
+    height: 400px;
+    background: #f8f9fa;
+    overflow: hidden;
+}
+
+.home-slider-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: #fff;
+    text-align: center;
+}
+
+.home-slider-item .bg-thumb {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+
+/* Custom Section Styles */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.cta-button {
+    background: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.cta-button:hover {
+    background: #0056b3;
+}
+
+.video-container {
+    margin-top: 20px;
+}
+
+video {
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer Styles */
+.footer-area {
+    background: #343a40;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.footer-logo img {
+    max-width: 150px;
+}
+
+.footer-area p {
+    margin-top: 10px;
+}
+
+.call-info {
+    margin-top: 20px;
+}
+
+.call-info h3 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .header-navigation-area ul {
+        flex-direction: column;
+    }
+    
+    .header-navigation-area ul li {
+        margin-bottom: 10px;
+    }
+    
+    .hero-content {
+        font-size: 14px;
+    }
+}
+
