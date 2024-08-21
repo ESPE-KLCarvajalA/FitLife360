@@ -140,9 +140,9 @@
                             <div class="icon">
                               <img src="./home/g1.png" alt="Image">
                             </div>
-                            <h2>Time <span>To</span> <span>Get</span> Fit</h2>
-                            <p>Gym is very important to maintain our health luptas sit fugit, sed quia cuuntur magni dolores eos qui rat ione volupta</p>
-                            <a href="./contact.html" class="btn-theme">Contact Now</a>
+                            <h2>Hora  <span>de</span> <span>ponerse </span> en forma</h2>
+                            <p>El gimnasio es muy importante para mantener nuestra salud, ya que nos ayuda a prevenir dolores y molestias, y promueve una vida más plena y activa.</p>
+                            <a href="./contact.html" class="btn-theme">Contáctanos Ahora</a>
                           </div>
                         </div>
                       </div>
@@ -170,9 +170,9 @@
                             <div class="icon">
                               <img src="./home/g1.png" alt="Image">
                             </div>
-                            <h2>Time <span>To</span> <span>Get</span> Fit</h2>
-                            <p>Gym is very important to maintain our health luptas sit fugit, sed quia cuuntur magni dolores eos qui rat ione volupta</p>
-                            <a href="./contact.html" class="btn-theme">Contact Now</a>
+                            <h2>Hora  <span>de</span> <span>ponerse </span> en forma</h2>
+                            <p>El gimnasio es muy importante para mantener nuestra salud, ya que nos ayuda a prevenir dolores y molestias, y promueve una vida más plena y activa.</p>
+                            <a href="./contact.html" class="btn-theme">Contáctanos Ahora</a>
                           </div>
                         </div>
                       </div>
@@ -233,8 +233,9 @@
                 <img src="./home/f1.jpg" alt="Image">
               </div>
               <div class="featured-info">
-                <h4>Dumble back lift</h4>
-                <h5>3 SETS, <span>5 MINUTES</span></h5>
+              <h4>Mancuernas</h4>
+<h5>3 SERIES, <span>5 MINUTOS</span></h5>
+
               </div>
             </div>
             <!-- End Featured Item -->
@@ -246,8 +247,9 @@
                 <img src="./home/f2.jpg" alt="Image">
               </div>
               <div class="featured-info">
-                <h4>Weight lifting</h4>
-                <h5>4 SETS, <span>3 MINUTES</span></h5>
+              <h4>Pesas</h4>
+<h5>4 SERIES, <span>3 MINUTOS</span></h5>
+
               </div>
             </div>
             <!-- End Featured Item -->
@@ -259,8 +261,9 @@
                 <img src="./home/f3.jpg" alt="Image">
               </div>
               <div class="featured-info">
-                <h4>Abs<br>fitness</h4>
-                <h5>2 SETS, <span>3 MINUTES</span></h5>
+              <h4>Abdominal</h4>
+<h5>2 SERIES, <span>3 MINUTOS</span></h5>
+
               </div>
             </div>
             <!-- End Featured Item -->
@@ -272,8 +275,9 @@
                 <img src="./home/f4.jpg" alt="Image">
               </div>
               <div class="featured-info">
-                <h4>Ropes lifting</h4>
-                <h5>5 SETS, <span>3 MINUTES</span></h5>
+              <h4>Cuerdas</h4>
+<h5>5 SERIES, <span>3 MINUTOS</span></h5>
+
               </div>
             </div>
             <!-- End Featured Item -->
@@ -295,25 +299,27 @@
           <div class="col-lg-5 col-xl-5 order-0 order-lg-1">
             <div class="about-content">
               <div class="section-title stitle-style2">
-                <div class="subtitle">SCIENCE 2005</div>
-                <h2 class="title">BEST <span>EQUIPMENTS <br>&amp; FITNESS </span>TRAINERS</h2>
-                <div class="desc">
-                  <p>Gym is very important to maintain our health luptas sit fugit, sed quia cuuntur magni dolores eos qui rat ione volupta pleasure rationally encounter consequences that are extremely </p>
-                </div>
+              <div class="subtitle">Desde 2005</div>
+<h2 class="title">MEJORES <span>EQUIPOS <br>&amp; ENTRENADORES </span>DE FITNESS</h2>
+<div class="desc">
+  <p>El gimnasio es muy importante para mantener nuestra salud, ya que nos ayuda a prevenir dolores y molestias, y promueve una vida más plena y activa. La satisfacción racionalmente encontrada puede enfrentar consecuencias que son extremadamente valiosas.</p>
+</div>
+
               </div>
               <div class="inner-content">
                 <div class="about-list">
                   <ul>
-                    <li>Builds Aerobic Power</li>
-                    <li>Strong body Structure</li>
-                    <li>Boots your Memory</li>
-                    <li>Brng about resultful Sleep</li>
+                  <li>Desarrolla la capacidad aeróbica</li>
+<li>Estructura corporal fuerte</li>
+<li>Mejora tu memoria</li>
+<li>Provoca un sueño reparador</li>
+
                   </ul>
                 </div>
                 <div class="inline-style">
-                  <a class="btn btn-theme" href="./classes.html">LET’S START</a>
+                  <a class="btn btn-theme" href="./classes.html">EMPECEMOS</a>
                   <div class="btn-play-box">
-                    <a class="btn-play play-video-popup" href="https://www.youtube.com/watch?v=MLpWrANjFbI"><img src="./home/play-btn1.png" alt="Image">INTRO VIDEO</a>
+                    <a class="btn-play play-video-popup" href="https://www.youtube.com/watch?v=MLpWrANjFbI"><img src="./home/play-btn1.png" alt="Image">VIDEO DE INTRODUCCIÓN</a>
                   </div>
                 </div>
               </div>
@@ -404,9 +410,11 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="section-title text-center aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
-              <h2 class="title"><span>CLASSES </span>WE PROVIDE</h2>
-              <div class="desc">
-                <p>Gym classes dolor sit amet, consectetur adipiscing elit, sed do eiod tempor <br>didunt ut labore et dolore m et dolore magna aliqua minim niam</p>
+            <h2 class="title"><span>CLASES </span>QUE OFRECEMOS</h2>
+<div class="desc">
+  <p>Las clases de gimnasio son esenciales para mantener una buena salud. Brindamos un entrenamiento completo que abarca diversas disciplinas y técnicas para ayudarte a alcanzar tus objetivos. Nos enfocamos en ofrecerte una experiencia efectiva y agradable.</p>
+</div>
+
               </div>
             </div>
           </div>
@@ -422,8 +430,9 @@
                       <a href="./class-details.html"><span><img src="./home/1.jpg" alt="Image"></span></a>
                     </div>
                     <div class="content">
-                      <h4 class="title"><a href="./class-details.html">BODY BUILDING CLASS</a></h4>
-                      <h4 class="class-time">Duration 50 Minutes</h4>
+                    <h4 class="title"><a href="./class-details.html">CLASE DE MUSCULACIÓN</a></h4>
+<h4 class="class-time">Duración 50 Minutos</h4>
+
                     </div>
                   </div>
                 </div>
@@ -437,8 +446,9 @@
                       <a href="./class-details.html"><span><img src="./home/2.jpg" alt="Image"></span></a>
                     </div>
                     <div class="content">
-                      <h4 class="title"><a href="./class-details.html">FITNESS CLASS</a></h4>
-                      <h4 class="class-time">Duration 45 Minutes</h4>
+                    <h4 class="title"><a href="./class-details.html">CLASE DE FITNESS</a></h4>
+<h4 class="class-time">Duración 45 Minutos</h4>
+
                     </div>
                   </div>
                 </div>
@@ -452,8 +462,9 @@
                       <a href="./class-details.html"><span><img src="./home/3.jpg" alt="Image"></span></a>
                     </div>
                     <div class="content">
-                      <h4 class="title"><a href="./class-details.html">CROSSFIT CLASS</a></h4>
-                      <h4 class="class-time">Duration 35 Minutes</h4>
+                    <h4 class="title"><a href="./class-details.html">CLASE DE CROSSFIT</a></h4>
+<h4 class="class-time">Duración 35 Minutos</h4>
+
                     </div>
                   </div>
                 </div>
@@ -467,8 +478,9 @@
                       <a href="./class-details.html"><span><img src="./home/4.jpg" alt="Image"></span></a>
                     </div>
                     <div class="content">
-                      <h4 class="title"><a href="./class-details.html">YOGA CLASS</a></h4>
-                      <h4 class="class-time">Duration 25 Minutes</h4>
+                    <h4 class="title"><a href="./class-details.html">CLASE DE YOGA</a></h4>
+<h4 class="class-time">Duración 25 Minutos</h4>
+
                     </div>
                   </div>
                 </div>
@@ -482,8 +494,9 @@
                       <a href="./class-details.html"><span><img src="./home/5.jpg" alt="Image"></span></a>
                     </div>
                     <div class="content">
-                      <h4 class="title"><a href="./class-details.html">MARTIAL ART CLASS</a></h4>
-                      <h4 class="class-time">Duration 30 Minutes</h4>
+                    <h4 class="title"><a href="./class-details.html">CLASE DE ARTE MARCIAL</a></h4>
+<h4 class="class-time">Duración 30 Minutos</h4>
+
                     </div>
                   </div>
                 </div>
@@ -497,8 +510,9 @@
                       <a href="./class-details.html"><span><img src="./home/6.jpg" alt="Image"></span></a>
                     </div>
                     <div class="content">
-                      <h4 class="title"><a href="./class-details.html">CARDIO CLASS</a></h4>
-                      <h4 class="class-time">Duration 40 Minutes</h4>
+                    <h4 class="title"><a href="./class-details.html">CLASE DE CARDIO</a></h4>
+<h4 class="class-time">Duración 40 Minutos</h4>
+
                     </div>
                   </div>
                 </div>
@@ -519,9 +533,11 @@
             <div class="classical-workout-wrap bg-img" data-bg-img="assets/img/photos/workout.bg2.png" style="background-image: url(&quot;assets/img/photos/workout.bg2.png&quot;);">
               <div class="column-left bg-img aos-init aos-animate" data-bg-img="assets/img/photos/workout.bg1.png" data-aos="fade-right" data-aos-duration="1000" style="background-image: url(&quot;assets/img/photos/workout.bg1.png&quot;);">
                 <div class="content">
-                  <h2 class="title">CLASSICAL<br>WORKOUT</h2>
-                  <p>Lorem ipsum dolor amet, consectetur adipiscing elit, sed do eiod tempor incididunt ut labore</p>
-                  <a class="btn-link" href="./classes.html">VIEW SCHEDULE</a>
+                <h3 class="title">ENTRENAMIENTO <br>CLÁSICO</h3>
+                <p>El entrenamiento clásico es fundamental para mantener una buena condición física. En nuestras sesiones, combinamos técnicas tradicionales con métodos modernos para ofrecer un entrenamiento completo y efectivo. Disfruta de una rutina bien equilibrada que se adapta a tus necesidades y objetivos.</p>
+
+<a class="btn-link" href="./classes.html">VER HORARIO</a>
+
                 </div>
               </div>
               <div class="shape-style aos-init aos-animate" data-aos="fade-right" data-aos-duration="1000"></div>
@@ -574,12 +590,13 @@
         <div class="row">
           <div class="col-md-6 col-xl-4 pr-0">
             <div class="section-title stitle-style2 aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
-              <div class="subtitle">FITNESS GALLERY</div>
-              <h2 class="title">BELIEVE IN <span>YOURSELF, <br>BE FIT </span>&amp; HEALTHIER</h2>
+            <div class="subtitle">GALERÍA DE FITNESS</div>
+<h2 class="title">CREE EN <span>TÍ MISMO, <br>ESTA EN FORMA </span>&amp; MÁS SALUDABLE</h2>
+
             </div>
           </div>
           <div class="col-md-6 col-xl-8 d-none d-md-block text-center text-md-end">
-            <a href="./classes.html" class="btn-theme">VIEW ALL</a>
+            <a href="./classes.html" class="btn-theme">VER TODO</a>
           </div>
         </div>
       </div>
@@ -680,9 +697,11 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="section-title text-center aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
-              <h2 class="title">PROFESSIONAL <span>INSTRUCTORS</span></h2>
-              <div class="desc">
-                <p>Gym classes dolor sit amet, consectetur adipiscing elit, sed do eiod tempor <br>didunt ut labore et dolore m et dolore magna aliqua minim niam</p>
+            <h2 class="title">INSTRUCTORES <span>PROFESIONALES</span></h2>
+<div class="desc">
+  <p>Nuestros instructores profesionales están altamente capacitados para guiarte en cada paso, ofreciendo entrenamientos personalizados y efectivos. Nos aseguramos de que cada sesión se adapte a tus necesidades y objetivos, proporcionando un ambiente seguro y motivador.</p>
+</div>
+
               </div>
             </div>
           </div>
@@ -698,16 +717,15 @@
                 <div class="content">
                   <div class="member-info">
                     <h4 class="name"><a href="./team-details.html">Robert Cristopher</a></h4>
-                    <h6 class="designation">Bodybuilding Trainer</h6>
+                    <h6 class="designation">Entrenador de Musculación
+</h6>
                     <div class="social-icons">
                       <a href="./index.html#/"><i class="fa fa-facebook icon"></i></a>
                       <a href="./index.html#/"><i class="fa fa-phone icon"></i></a>
                       <a href="./index.html#/"><i class="fa fa-instagram icon"></i></a>
                       <a href="./index.html#/"><i class="fa fa-twitter icon"></i></a>
                     </div>
-                    <div class="team-footer">
-                      <a class="btn" href="./team-details.html">VIEW PROFILE</a>
-                    </div>
+                  
                   </div>
                 </div>
               </div>
@@ -724,16 +742,15 @@
                 <div class="content">
                   <div class="member-info">
                     <h4 class="name"><a href="./team-details.html">Oliviea Williams</a></h4>
-                    <h6 class="designation">Fitness Trainer</h6>
+                    <h6 class="designation">Entrenadora de Fitness
+</h6>
                     <div class="social-icons">
                       <a href="./index.html#/"><i class="fa fa-facebook icon"></i></a>
                       <a href="./index.html#/"><i class="fa fa-phone icon"></i></a>
                       <a href="./index.html#/"><i class="fa fa-instagram icon"></i></a>
                       <a href="./index.html#/"><i class="fa fa-twitter icon"></i></a>
                     </div>
-                    <div class="team-footer">
-                      <a class="btn" href="./team-details.html">VIEW PROFILE</a>
-                    </div>
+                    
                   </div>
                 </div>
               </div>
@@ -750,16 +767,15 @@
                 <div class="content">
                   <div class="member-info">
                     <h4 class="name"><a href="./team-details.html">Nikolus Smith</a></h4>
-                    <h6 class="designation">Crossfit Trainer</h6>
+                    <h6 class="designation">Entrenador de Crossfit
+</h6>
                     <div class="social-icons">
                       <a href="./index.html#/"><i class="fa fa-facebook icon"></i></a>
                       <a href="./index.html#/"><i class="fa fa-phone icon"></i></a>
                       <a href="./index.html#/"><i class="fa fa-instagram icon"></i></a>
                       <a href="./index.html#/"><i class="fa fa-twitter icon"></i></a>
                     </div>
-                    <div class="team-footer">
-                      <a class="btn" href="./team-details.html">VIEW PROFILE</a>
-                    </div>
+                    
                   </div>
                 </div>
               </div>
@@ -776,16 +792,15 @@
                 <div class="content">
                   <div class="member-info">
                     <h4 class="name"><a href="./team-details.html">Jenifer Parker</a></h4>
-                    <h6 class="designation">Aerobics Instructor</h6>
+                    <h6 class="designation">Instructora de Aeróbicos
+</h6>
                     <div class="social-icons">
                       <a href="./index.html#/"><i class="fa fa-facebook icon"></i></a>
                       <a href="./index.html#/"><i class="fa fa-phone icon"></i></a>
                       <a href="./index.html#/"><i class="fa fa-instagram icon"></i></a>
                       <a href="./index.html#/"><i class="fa fa-twitter icon"></i></a>
                     </div>
-                    <div class="team-footer">
-                      <a class="btn" href="./index.html#/">VIEW PROFILE</a>
-                    </div>
+                    
                   </div>
                 </div>
               </div>
@@ -803,60 +818,61 @@
         <div class="row">
           <div class="col-lg-6">
             <div class="section-title stitle-style2">
-              <div class="subtitle">TESTIMONIALS</div>
-              <h2 class="title">THAT’S <span>WHAT OUR<br>CLIENT </span>SAYS</h2>
+            <div class="subtitle">TESTIMONIOS</div>
+<h2 class="title">ESTO ES LO QUE <span>NUESTRO<br>CLIENTE </span>DICE</h2>
+
             </div>
             <div class="testimonial-content aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
               <div class="testimonial-slider-content">
                 <div class="swiper-container testimonial-slider-container swiper-container-initialized swiper-container-horizontal">
                   <div class="swiper-wrapper testimonial-slider" style="transform: translate3d(-1940px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide testimonial-single swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="2" style="width: 485px;">
                       <div class="client-content">
-                        <p>“Getshape is very smart and technical sound gym, which maintain professional trainer as well as modern equipments. to maintain our health luptas sit fugit, sed quia cuuntur mag dolores eos qui rat ione volupta pleasure rationally”</p>
+                      <p>“FitLife360 es un gimnasio muy inteligente y técnicamente sólido, que mantiene entrenadores profesionales así como equipos modernos. Mantiene nuestra salud y bienestar de manera efectiva, brindando una experiencia placentera y racional.”</p>
+
                         <img class="quote-icon" src="./home/quote-icon.png" alt="Icon">
                       </div>
                       <div class="client-info">
-                        <h4 class="name">Stephen Fleming</h4>
-                        <h6 class="designation">Mariland, USA</h6>
+                        <h4 class="name">Jhosue Chica</h4>
                       </div>
                     </div>
                     <div class="swiper-slide testimonial-single swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 485px;">
                       <div class="client-content">
-                        <p>“Getshape is very smart and technical sound gym, which maintain professional trainer as well as modern equipments. to maintain our health luptas sit fugit, sed quia cuuntur mag dolores eos qui rat ione volupta pleasure rationally”</p>
+                      <p>“FitLife360 es un gimnasio muy avanzado y técnico, que cuenta con entrenadores profesionales y equipos modernos. Nos ayuda a mantener nuestra salud y bienestar, ofreciendo una experiencia que combina efectividad y satisfacción.”</p>
+
                         <img class="quote-icon" src="./home/quote-icon.png" alt="Icon">
                       </div>
                       <div class="client-info">
-                        <h4 class="name">Stephen Fleming</h4>
-                        <h6 class="designation">Mariland, USA</h6>
+                        <h4 class="name">Elvis Ramirez</h4>
                       </div>
                     </div>
                     <div class="swiper-slide testimonial-single" data-swiper-slide-index="1" style="width: 485px;">
                       <div class="client-content">
-                        <p>“Getshape is very smart and technical sound gym, which maintain professional trainer as well as modern equipments. to maintain our health luptas sit fugit, sed quia cuuntur mag dolores eos qui rat ione volupta pleasure rationally”</p>
+                      <p>“FitLife360 es un gimnasio altamente eficiente y técnicamente avanzado, con entrenadores profesionales y equipos de última generación. Promueve nuestra salud y bienestar de manera integral, ofreciendo una experiencia placentera y bien fundamentada.”</p>
+
                         <img class="quote-icon" src="./home/quote-icon.png" alt="Icon">
                       </div>
                       <div class="client-info">
-                        <h4 class="name">Stephen Fleming</h4>
-                        <h6 class="designation">Mariland, USA</h6>
+                        <h4 class="name">Mishell Castellano</h4>
                       </div>
                     </div>
                     <div class="swiper-slide testimonial-single swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="2" style="width: 485px;">
                       <div class="client-content">
-                        <p>“Getshape is very smart and technical sound gym, which maintain professional trainer as well as modern equipments. to maintain our health luptas sit fugit, sed quia cuuntur mag dolores eos qui rat ione volupta pleasure rationally”</p>
+                      <p>“FitLife360 combina entrenadores expertos y equipos modernos para ofrecer un gimnasio excepcional que mejora nuestra salud y bienestar.”</p>
+
                         <img class="quote-icon" src="./home/quote-icon.png" alt="Icon">
                       </div>
                       <div class="client-info">
-                        <h4 class="name">Stephen Fleming</h4>
-                        <h6 class="designation">Mariland, USA</h6>
+                        <h4 class="name">Kiara Carvajal</h4>
                       </div>
                     </div>
                   <div class="swiper-slide testimonial-single swiper-slide-duplicate swiper-slide-active" data-swiper-slide-index="0" style="width: 485px;">
                       <div class="client-content">
-                        <p>“Getshape is very smart and technical sound gym, which maintain professional trainer as well as modern equipments. to maintain our health luptas sit fugit, sed quia cuuntur mag dolores eos qui rat ione volupta pleasure rationally”</p>
+                      <p>“FitLife360 ofrece un gimnasio de primer nivel con entrenadores capacitados y equipos modernos que optimizan nuestra salud y estado físico.”</p>
+
                         <img class="quote-icon" src="./home/quote-icon.png" alt="Icon">
                       </div>
                       <div class="client-info">
-                        <h4 class="name">Stephen Fleming</h4>
-                        <h6 class="designation">Mariland, USA</h6>
+                        <h4 class="name">Matilde Pérez</h4>
                       </div>
                     </div></div>
                   <!-- Add Arrows -->
@@ -871,50 +887,56 @@
           <div class="col-lg-6">
             <div class="bmi-calc-form bg-img" data-bg-img="assets/img/testimonial/1.jpg" style="background-image: url(&quot;assets/img/testimonial/1.jpg&quot;);">
               <div class="section-title text-center mt-0">
-                <h2 class="title">BMI <span>CALCULATOR</span></h2>
+              <h2 class="title">CALCULADORA <span>DE IMC</span></h2>
+
                 <div class="desc">
-                  <p>BMI is a reliable guide to estimate the healthy weight range based on height, wight and age</p>
+                  <p>El IMC es una guía confiable para estimar el rango de peso saludable basado en la altura, el peso y la edad.</p>
+
                 </div>
               </div>
               <form action="./index.html#/">
                 <div class="row">
                   <div class="col-md-4">
                     <div class="form-group">
-                      <input class="form-control" type="text" placeholder="Height / cm">
+                      <input class="form-control" type="text" placeholder="Altura / cm">
                     </div>
                   </div>
                   <div class="col-md-4">
                     <div class="form-group">
-                      <input class="form-control" type="text" placeholder="Weight / kg">
+                      <input class="form-control" type="text" placeholder="Peso / kg">
                     </div>
                   </div>
                   <div class="col-md-4">
                     <div class="form-group">
-                      <input class="form-control" type="text" placeholder="Age">
+                      <input class="form-control" type="text" placeholder="Edad">
                     </div>
                   </div>
                   <div class="col-md-6">
                     <div class="form-group">
                       <select class="form-control form-select" aria-label="gender select example">
-                        <option selected="">Gender</option>
-                        <option value="1">Female</option>
-                        <option value="2">Male</option>
+                      <option selected="">Género</option>
+<option value="1">Femenino</option>
+<option value="2">Masculino</option>
+
                       </select>
                     </div>
                   </div>
                   <div class="col-md-6">
                     <div class="form-group">
                       <select class="form-control form-select" aria-label="activity select example">
-                        <option selected="">Select an activity factor</option>
-                        <option value="1">One</option>
-                        <option value="2">Two</option>
+                      <option selected="">Selecciona un factor de actividad</option>
+  <option value="1">Sedentario </option>
+  <option value="2">Ligero</option>
+  <option value="3">Moderado</option>
+  <option value="4">Intenso</option>
+  <option value="5">Muy intenso</option>
                       </select>
                     </div>
                   </div>
                   <div class="col-md-12">
                     <div class="bmi-calc-form-footer">
                       <div class="form-group mb-0">
-                        <button class="btn btn-theme" type="button">CALCULATE</button>
+                        <button class="btn btn-theme" type="button">CALCULAR</button>
                       </div>
                       <div class="bmi-calc-result">
                         <input class="form-control" type="text" placeholder="0.0">
@@ -941,9 +963,11 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="section-title text-center">
-              <h2 class="title">LATEST <span>BLOG POST</span></h2>
-              <div class="desc">
-                <p>Gym classes dolor sit amet, consectetur adipiscing elit, sed do eiod tempor <br>didunt ut labore et dolore m et dolore magna aliqua minim niam</p>
+            <h2 class="title">PUBLICACIÓN <span> DEL BLOG</span></h2>
+<div class="desc">
+  <p> Nuestros artículos más recientes ofrecen información valiosa sobre técnicas de entrenamiento, consejos de nutrición y bienestar general. </p>
+</div>
+
               </div>
             </div>
           </div>
@@ -958,13 +982,14 @@
               <div class="content">
                 <div class="meta">
                   <a class="category" href="./blog.html"><i class="fa fa-tags icon"></i><span> FITNESS</span></a>
-                  <a class="post-date" href="./blog.html"><i class="fa fa-calendar icon"></i><span> 05 MAY, 2023</span></a>
+                  <a class="post-date" href="./blog.html"><i class="fa fa-calendar icon"></i><span> 05 MAYO, 2023</span></a>
                 </div>
                 <h4 class="title">
-                  <a href="./blog-details.html">Perfect workout is the way to shape your body and mind</a>
+                  <a href="./blog-details.html">El entrenamiento perfecto es la clave para moldear tu cuerpo y mente</a>
                 </h4>
-                <p>Gym is very important to maintain our health quia cuuntur magni dolores eos pleasure of mind and make you more healthier</p>
-              </div>
+                <p>El gimnasio es muy importante para mantener nuestra salud, ya que ayuda a reducir dolores y proporciona un bienestar mental, haciendo que te sientas más saludable.</p>
+
+            </div>
             </div>
             <!--== End Blog Post Item ==-->
           </div>
@@ -977,13 +1002,14 @@
               <div class="content">
                 <div class="meta">
                   <a class="category" href="./blog.html"><i class="fa fa-tags icon"></i><span> YOGA</span></a>
-                  <a class="post-date" href="./blog.html"><i class="fa fa-calendar icon"></i><span> 04 MAY, 2023</span></a>
+                  <a class="post-date" href="./blog.html"><i class="fa fa-calendar icon"></i><span> 04 MAYO, 2023</span></a>
                 </div>
                 <h4 class="title">
-                  <a href="./blog-details.html">Yoga is important for both body and mind refreshment</a>
+                  <a href="./blog-details.html">El yoga es importante para la renovación del cuerpo y la mente</a>
                 </h4>
-                <p>Gym is very important to maintain our health quia cuuntur magni dolores eos pleasure of mind and make you more healthier</p>
-              </div>
+                <p>El gimnasio es muy importante para mantener nuestra salud, ya que ayuda a reducir dolores y proporciona un bienestar mental, haciendo que te sientas más saludable.</p>
+
+            </div>
             </div>
             <!--== End Blog Post Item ==-->
           </div>
@@ -995,13 +1021,14 @@
               </div>
               <div class="content">
                 <div class="meta">
-                  <a class="category" href="./blog.html"><i class="fa fa-tags icon"></i><span> BODYBUILD</span></a>
-                  <a class="post-date" href="./blog.html"><i class="fa fa-calendar icon"></i><span> 02 MAY, 2023</span></a>
+                  <a class="category" href="./blog.html"><i class="fa fa-tags icon"></i><span> MUSCULACIÓN</span></a>
+                  <a class="post-date" href="./blog.html"><i class="fa fa-calendar icon"></i><span> 02 MAYO, 2023</span></a>
                 </div>
                 <h4 class="title">
-                  <a href="./blog-details.html">Give more time in workout for a  great shape that you want</a>
+                  <a href="./blog-details.html">Dedica más tiempo al entrenamiento para obtener la forma que deseas</a>
                 </h4>
-                <p>Gym is very important to maintain our health quia cuuntur magni dolores eos pleasure of mind and make you more healthier</p>
+                <p>El gimnasio es muy importante para mantener nuestra salud, ya que ayuda a reducir dolores y proporciona bienestar mental, haciendo que te sientas más saludable.</p>
+                
               </div>
             </div>
             <!--== End Blog Post Item ==-->
@@ -1013,7 +1040,7 @@
   </main>
 
   <!--== Start Footer Area Wrapper ==-->
-  <footer class="footer-area default-style bg-img" data-bg-img="assets/img/photos/bg-f1.png" style="background-image: url(&quot;assets/img/photos/bg-f1.png&quot;);">
+  <footer class="footer-area default-style bg-img" style="background-color: black;"  >
     <div class="footer-main">
       <div class="container">
         <div class="row">
@@ -1023,12 +1050,14 @@
                 <a class="footer-logo" href="./index.html">
                   <img src="./home/" alt="Logo">
                 </a>
-                <p>FitLife360 winner dolor sit consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</p>
+                <p>FitLife360 es el ganador, ofreciendo un servicio excepcional con un enfoque en la excelencia. Nuestro compromiso es proporcionar una experiencia de entrenamiento que cumpla con los más altos estándares.</p>
+
+
                 <div class="opening-time">
-                  <h4 class="title">Opening time</h4>
+                  <h4 class="title">Horario de apertura</h4>
                   <ul>
-                    <li>Monday - Friday: 7 am to 10 pm</li>
-                    <li>Saturday - Sunday: 9 am to 10 pm</li>
+                  <li>Lunes - Viernes: 7 am a 10 pm</li>
+                    <li>Sábados - Domingos: 9 am a 10 pm</li>
                   </ul>
                 </div>
               </div>
@@ -1039,32 +1068,32 @@
               <h4>USEFULL LINK</h4>
               <nav class="widget-menu-wrap">
                 <ul class="nav-menu nav">
-                  <li><a href="./about.html">About us</a></li>
-                  <li><a href="./team.html">Membership</a></li>
-                  <li><a href="./classes.html">Our Classes</a></li>
-                  <li><a href="./team.html">Instructors</a></li>
-                  <li><a href="./shop.html">Shop</a></li>
-                  <li><a href="./blog.html">Blog post</a></li>
+                <li><a href="./about.html">Nosotros</a></li>
+                <li><a href="./team.html">Membresía</a></li>
+                <li><a href="./classes.html">Clases</a></li>
+                <li><a href="./team.html">Instructores</a></li>
+                <li><a href="./shop.html">Tienda</a></li>
+                <li><a href="./blog.html">Blog</a></li>
                 </ul>
                 <ul class="nav-menu nav">
-                  <li><a href="./index.html#/">Schedules</a></li>
-                  <li><a href="./index.html#/">Payment</a></li>
-                  <li><a href="./index.html#/">Faqs</a></li>
-                  <li><a href="./contact.html">Contact</a></li>
+                <li><a href="./index.html#/">Horarios</a></li>
+                <li><a href="./index.html#/">Pago</a></li>
+                <li><a href="./index.html#/">Preguntas frecuentes</a></li>
+                <li><a href="./contact.html">Contacto</a></li>
                 </ul>
               </nav>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="widget-item mb-xs-50">
-              <h4>CONTACT INFO</h4>
+            <h4>CONTACTO</h4>
               <div class="widget-contact-info">
                 <div class="contact-info-item">
                   <div class="icon-box">
                     <img src="./home/1(3).png" alt="Logo">
                   </div>
                   <div class="content">
-                    <h4 class="title">Address</h4>
+                    <h4 class="title">Dirección</h4>
                     <p>Ecuador</p>
                   </div>
                 </div>
@@ -1073,7 +1102,7 @@
                     <img src="./home/2.png" alt="Logo">
                   </div>
                   <div class="content">
-                    <h4 class="title">Phone</h4>
+                    <h4 class="title">Teléfono</h4>
                     <ul>
                       <li><a href="tel://09(123)456789">09 (123) 456 789</a></li>
                       <li><a href="tel://09(987)654321">09 (987) 654 321</a></li>
@@ -1087,8 +1116,8 @@
                   <div class="content">
                     <h4 class="title">Web</h4>
                     <ul>
-                      <li><a href="mailto://info@example.com">info@example.com</a></li>
-                      <li><a href="./index.html">www.example.com</a></li>
+                      <li><a href="mailto://info@example.com">info@fitlife360.com</a></li>
+                      <li><a href="./index.html">www.fitlife360.com</a></li>
                     </ul>
                   </div>
                 </div>
@@ -1097,11 +1126,13 @@
           </div>
           <div class="col-sm-6 col-md-6 col-lg-3">
             <div class="widget-item">
-              <h4>NEWSLETTER</h4>   
+            <h4>BOLETÍN</h4>
               <div class="widget-newsletter">
-                <p>Subscribe our Newsletter and gates latest updates of offers, productsa and promotions from every week we provide</p>
+                <p>Suscríbete a nuestro boletín y recibe las últimas actualizaciones de ofertas, productos y promociones que ofrecemos cada semana.</p>
+
+
                 <form class="newsletter-form input-btn-group">
-                  <input class="form-control" type="text" placeholder="Email here">
+                  <input class="form-control" type="text" placeholder="Correo ">
                   <button class="btn btn-theme" type="button"><i class="fa fa-paper-plane-o"></i></button>
                 </form>
               </div>         
@@ -1121,7 +1152,9 @@
           <div class="row align-items-center">
             <div class="col-12">
               <div class="widget-copyright text-center">
-                <p><i class="fa fa-copyright"></i> &copy; 2024 FitLife360. Todos los derechos reservados. <i class="fa fa-heart"></i>  <a target="_blank" href="https://www.hasthemes.com/"></a></p>
+              <p> &copy; 2024 FitLife360. Todos los derechos reservados. 
+
+
               </div>
             </div>
           </div>
