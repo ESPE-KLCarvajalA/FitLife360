@@ -11,6 +11,7 @@
     <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pe7-icons/dist/pe-icon-7-stroke.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 
     <!--== Google Fonts ==-->
@@ -84,21 +85,21 @@
           <div class="header-align">
             <div class="header-navigation-area d-none d-xl-block">
               <ul class="main-menu nav position-relative">
-              <li><a href="{{ route('home') }}">Home</a></li>
-                <li><a href="{{ route('acerca') }}">About</a></li>
+              <li><a href="{{ route('home') }}">Inicio</a></li>
+                <li><a href="{{ route('acerca') }}">Nosotros</a></li>
                
-                <li class="has-submenu"><a href="{{ route('services') }}">Classes</a>
+                <li class="has-submenu"><a href="{{ route('services') }}">Clases</a>
                   
                 </li>
-                <li class="has-submenu"><a href="{{ route('shop') }}">Shop</a>
+                <li class="has-submenu"><a href="{{ route('shop') }}">Tienda</a>
                  
                 </li>
                 
                 <li class="has-submenu"><a href="{{ route('blog') }}">Blog</a>
                  
                 </li>
-                <li><a href="{{ route('contact') }}">Contact</a></li>
-                <li><a href="{{ route('account') }}">Login/Register</a></li>
+                <li><a href="{{ route('contact') }}">Contacto</a></li>
+                <li><a href="{{ route('account') }}">Iniciar Sesión</a></li>
 
                 
               </ul>
@@ -107,7 +108,7 @@
               <div class="header-action-cart d-none d-xl-block">
                 <button class="btn-cart cart-icon" onclick="window.location.href='{{ route('shopcart') }}'">
                   <span class="cart-count">2</span>
-                  <i class="pe-7s-shopbag"></i>
+                  <i class="fas fa-shopping-bag"></i>
                 </button>
                
               </div>
@@ -333,91 +334,22 @@
     </section>
     <!--== End About Area ==-->
 
-    <!--== Start Features Area Wrapper ==-->
-    <!-- <section class="features-area">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <div class="featured-columns-wrap">
-              <div class="featured-items-style2 bg-img" data-bg-img="assets/img/photos/bg-f2.jpg" style="background-image: url(&quot;assets/img/photos/bg-f2.jpg&quot;);">
-                 <div class="row row-gutter-0">
-                  <div class="col-md-6">
-                    
-                    <div class="featured-item">
-                      <div class="featured-icon">
-                        <img src="./home/f1.png" alt="Image">
-                      </div>
-                      <div class="featured-info">
-                        <h4>Best Training</h4>
-                        <p>Best Training dolor sit consectetur adipiscing elit, sed do eiusmod temp incididunt ut labore et dolore</p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="featured-item">
-                      <div class="featured-icon">
-                        <img src="./home/f2.png" alt="Image">
-                      </div>
-                      <div class="featured-info">
-                        <h4>Qualified Instructor</h4>
-                        <p>Qualified Instructor consectetur adipg elit, sed do eiusmod tempor incididu ut labore  dolore are same magna </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="featured-item">
-                      <div class="featured-icon">
-                        <img src="./home/f3.png" alt="Image">
-                      </div>
-                      <div class="featured-info">
-                        <h4>Latest Equipment</h4>
-                        <p class="m-0">Latest equipment dolor consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="featured-item">
-                      <div class="featured-icon">
-                        <img src="./home/f4.png" alt="Image">
-                      </div>
-                      <div class="featured-info">
-                        <h4>Award Winners</h4>
-                        <p class="m-0">Award winner dolor sit consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna </p>
-                      </div>
-                    </div>
-                  </div>
-                </div> 
-              </div>
-              <div class="featured-discount-item">
-                <div class="thumb" data-bg-img="assets/img/photos/f1.jpg" style="background-image: url(&quot;assets/img/photos/f1.jpg&quot;);"></div>
-                <div class="content">
-                  <h2>35%</h2>
-                  <h3>DISCOUNT</h3>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section> -->
-    <!--== End Features Area Wrapper ==-->
 
     <!--== Start Service Area ==-->
-    <section class="service-area service-default-area">
+    
+    <section class="service-area class-service-area position-relative">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <div class="section-title text-center aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
-            <h2 class="title"><span>CLASES </span>QUE OFRECEMOS</h2>
-<div class="desc">
-  <p>Las clases de gimnasio son esenciales para mantener una buena salud. Brindamos un entrenamiento completo que abarca diversas disciplinas y técnicas para ayudarte a alcanzar tus objetivos. Nos enfocamos en ofrecerte una experiencia efectiva y agradable.</p>
-</div>
-
+            <div class="section-title text-center">
+              <h2 class="title"><span>CLASES QUE </span> OFRECEMOS</h2>
+              <div class="desc">
+              <p>Las clases de gimnasio son esenciales para mantener una buena salud. Brindamos un entrenamiento completo que abarca diversas disciplinas y técnicas para ayudarte a alcanzar tus objetivos. Nos enfocamos en ofrecerte una experiencia efectiva y agradable.</p>
               </div>
             </div>
           </div>
         </div>
-        <div class="row aos-init aos-animate" data-aos="fade-up" data-aos-duration="1100">
+        <div class="row">
           <div class="col-md-10 offset-md-1 col-lg-12 offset-lg-0">
             <div class="row">
               <div class="col-sm-6 col-lg-4">
@@ -425,12 +357,11 @@
                 <div class="service-item">
                   <div class="inner-content">
                     <div class="thumb">
-                      <a href="./class-details.html"><span><img src="./home/1.jpg" alt="Image"></span></a>
+                      <a href="#"><span><img src="./Our Classes - Zymzoo - Gym &amp; Fitness Centre Bootstrap 5 Template_files/1.jpg" alt="Image"></span></a>
                     </div>
                     <div class="content">
-                    <h4 class="title"><a href="./class-details.html">CLASE DE MUSCULACIÓN</a></h4>
-<h4 class="class-time">Duración 50 Minutos</h4>
-
+                      <h4 class="title"><a href="#">CLASE DE MUSCULACIÓN</a></h4>
+                      <h4 class="class-time">Duración 50 Minutos</h4>
                     </div>
                   </div>
                 </div>
@@ -441,12 +372,11 @@
                 <div class="service-item">
                   <div class="inner-content">
                     <div class="thumb">
-                      <a href="./class-details.html"><span><img src="./home/2.jpg" alt="Image"></span></a>
+                      <a href="#"><span><img src="./Our Classes - Zymzoo - Gym &amp; Fitness Centre Bootstrap 5 Template_files/2.jpg" alt="Image"></span></a>
                     </div>
                     <div class="content">
-                    <h4 class="title"><a href="./class-details.html">CLASE DE FITNESS</a></h4>
-<h4 class="class-time">Duración 45 Minutos</h4>
-
+                      <h4 class="title"><a href="#">CLASE DE FITNESS</a></h4>
+                      <h4 class="class-time">Duración 45 Minutos</h4>
                     </div>
                   </div>
                 </div>
@@ -457,12 +387,11 @@
                 <div class="service-item">
                   <div class="inner-content">
                     <div class="thumb">
-                      <a href="./class-details.html"><span><img src="./home/3.jpg" alt="Image"></span></a>
+                      <a href="#"><span><img src="./Our Classes - Zymzoo - Gym &amp; Fitness Centre Bootstrap 5 Template_files/3.jpg" alt="Image"></span></a>
                     </div>
                     <div class="content">
-                    <h4 class="title"><a href="./class-details.html">CLASE DE CROSSFIT</a></h4>
-<h4 class="class-time">Duración 35 Minutos</h4>
-
+                      <h4 class="title"><a href="#">CLASE DE CROSSFIT</a></h4>
+                      <h4 class="class-time">Duración 35 Minutos</h4>
                     </div>
                   </div>
                 </div>
@@ -473,12 +402,11 @@
                 <div class="service-item">
                   <div class="inner-content">
                     <div class="thumb">
-                      <a href="./class-details.html"><span><img src="./home/4.jpg" alt="Image"></span></a>
+                      <a href="#"><span><img src="./Our Classes - Zymzoo - Gym &amp; Fitness Centre Bootstrap 5 Template_files/4.jpg" alt="Image"></span></a>
                     </div>
                     <div class="content">
-                    <h4 class="title"><a href="./class-details.html">CLASE DE YOGA</a></h4>
-<h4 class="class-time">Duración 25 Minutos</h4>
-
+                      <h4 class="title"><a href="#">CLASE DE YOGA</a></h4>
+                      <h4 class="class-time">Duración 25 Minutos</h4>
                     </div>
                   </div>
                 </div>
@@ -489,12 +417,11 @@
                 <div class="service-item">
                   <div class="inner-content">
                     <div class="thumb">
-                      <a href="./class-details.html"><span><img src="./home/5.jpg" alt="Image"></span></a>
+                      <a href="#"><span><img src="./Our Classes - Zymzoo - Gym &amp; Fitness Centre Bootstrap 5 Template_files/5.jpg" alt="Image"></span></a>
                     </div>
                     <div class="content">
-                    <h4 class="title"><a href="./class-details.html">CLASE DE ARTE MARCIAL</a></h4>
-<h4 class="class-time">Duración 30 Minutos</h4>
-
+                      <h4 class="title"><a href="#">CLASE DE ARTE MARCIAL </a></h4>
+                      <h4 class="class-time">Duración 30 Minutos</h4>
                     </div>
                   </div>
                 </div>
@@ -505,12 +432,11 @@
                 <div class="service-item">
                   <div class="inner-content">
                     <div class="thumb">
-                      <a href="./class-details.html"><span><img src="./home/6.jpg" alt="Image"></span></a>
+                      <a href="#"><span><img src="./Our Classes - Zymzoo - Gym &amp; Fitness Centre Bootstrap 5 Template_files/6.jpg" alt="Image"></span></a>
                     </div>
                     <div class="content">
-                    <h4 class="title"><a href="./class-details.html">CLASE DE CARDIO</a></h4>
-<h4 class="class-time">Duración 40 Minutos</h4>
-
+                      <h4 class="title"><a href="#"> CLASE DE CARDIO</a></h4>
+                      <h4 class="class-time">Duración 40 Minutos</h4>
                     </div>
                   </div>
                 </div>
@@ -520,8 +446,14 @@
           </div>
         </div>
       </div>
+      <div class="shape-group">
+        <div class="shape-img6">
+          <img src="./Our Classes - Zymzoo - Gym &amp; Fitness Centre Bootstrap 5 Template_files/shape1.png" alt="Image">
+        </div>
+      </div>
     </section>
     <!--== End Service Area ==-->
+
 
     <!--== Start Service Area ==-->
     <section class="classical-workout-area">
